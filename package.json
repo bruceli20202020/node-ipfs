@@ -1,0 +1,24 @@
+{
+  "name": "ipfswk",
+  "version": "1.0.0",
+  "description": "ipfs nodejs",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ipfs",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cid": "^0.1.0",
+    "express-fileupload": "^1.2.1",
+    "fs": "0.0.1-security",
+    "ipfs-http-client": "^50.0.0",
+    "it-all": "^1.0.5",
+    "it-concat": "^2.0.0",
+    "it-last": "^1.0.5"
+  }
+}
